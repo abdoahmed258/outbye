@@ -1,0 +1,1 @@
+# OUTBYE Graduation Project This repository contains the full source code for the OUTBYE graduation project, including backend (PHP API), web frontend, and Flutter application. # outbye # outbye
